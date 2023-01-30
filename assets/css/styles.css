@@ -1,7 +1,7 @@
 :root {
   --ff-primary: 'Open Sans', sans-serif;
   --ff-secondary: 'Quicksand', sans-serif;
-  --color-black: hsl(60, 3%, 7%);
+  --color-black: hsl(60, 4%, 14%);
   --color-blue: hsl(239, 56%, 44%);
 }
 
@@ -15,7 +15,7 @@ body {
   margin: 0;
   font-family: var(--ff-primary);
   text-align: center;
-  color: hsl(60, 4%, 14%);
+  color: var(--color-black);
 }
 
 img {
